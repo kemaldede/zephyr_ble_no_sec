@@ -1,5 +1,5 @@
 // Kemal Serkan Dedeoglu
-//Advertising test
+// Non-connection Advertising Test
 #include <zephyr/types.h>
 #include <stddef.h>
 #include <string.h>
