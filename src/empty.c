@@ -1,3 +1,5 @@
+// Kemal Serkan Dedeoglu
+//Advertising test
 #include <zephyr/types.h>
 #include <stddef.h>
 #include <string.h>
